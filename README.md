@@ -9,7 +9,9 @@ Dark-Fb No Login 100% safe
 ```
 # Install
 ```
-• git clone https://github.com/BOT-033/Sensei
+• git clone https://github.com/NoobHackersCOM/Sensei
 • cd Sensei
 • python2 main.py
 ```
+Tutorial lengkap di:
+https://noobhackers.com
