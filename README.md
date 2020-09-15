@@ -14,4 +14,4 @@ Dark-Fb No Login 100% safe
 • python2 main.py
 ```
 Tutorial lengkap di:
-https://noobhackers.com
+https://indoxploit.id
