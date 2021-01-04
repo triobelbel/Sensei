@@ -3,6 +3,7 @@ Dark-Fb No Login 100% safe
 
 Script dark fb terbaru untuk hack akun fb tanpa harus login
 
+Script hack fb ini akan secara otomatis hack akun Facebook dari nomor telepon yang telah kamu tetapkan tanpa login dan anti check points.
 # Module
 ```
 • pip2 install tqdm
@@ -17,3 +18,7 @@ Script dark fb terbaru untuk hack akun fb tanpa harus login
 ```
 Tutorial lengkap di:
 https://indoxploit.id
+
+# Bitcoin Walet
+
+396bn2hWgkfpwh8WKkSXqLbZtuhFDmGkwG
